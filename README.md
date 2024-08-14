@@ -17,7 +17,7 @@ This tow below using depth-anything v2
 
 ## results
 * depthCorrres.py
-<img src="pic/dc.png" width=50% height=50%>
+<img src="pic/dc.png" >
  
 * Findobstacel
-<img src="pic/ob.png" width=50% height=50%>
+<img src="pic/ob.png" >
