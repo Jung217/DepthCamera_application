@@ -12,12 +12,12 @@ These programs can work with Intel® RealSense™ Depth Camera D435
 * Findobstacel.py : using OpenCV fn to find certain distance obstacles
 
 This tow below using depth-anything v2
-* camCap.py : reel time depth prediction
+* camCap.py : real time depth prediction
 * depthCorrres.py : using model detect and coresspond with real depth image
 
 ## results
 * depthCorrres.py
 <img src="pic/dc.png" >
  
-* Findobstacel
+* Findobstacel.py
 <img src="pic/ob.png" >
