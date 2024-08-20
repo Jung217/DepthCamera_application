@@ -22,3 +22,6 @@ This tow below using depth-anything v2
  
 * Findobstacel.py
 <img src="pic/ob.png" >
+
+## reference
+[[OpenCV基礎][Python]形態學運算(侵蝕、膨脹、梯度)](https://vocus.cc/article/65b7b29dfd8978000195eefc)
