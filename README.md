@@ -1,6 +1,4 @@
 # DepthCamera_application
-As title.
-
 These programs can work with Intel® RealSense™ Depth Camera D435
 
 ## Intro
