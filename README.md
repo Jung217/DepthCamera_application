@@ -21,5 +21,10 @@ This tow below using depth-anything v2
 * Findobstacel.py
 <img src="pic/ob.png" >
 
+## P.S.
+```ps
+cd C:\Program Files (x86)\Intel RealSense SDK 2.0\tools
+rs-convert.exe -p E:\bag\conD\20240714\t1 -i E:\bag\20240714_132419.bag
+```
 ## reference
 [[OpenCV基礎][Python]形態學運算(侵蝕、膨脹、梯度)](https://vocus.cc/article/65b7b29dfd8978000195eefc)
